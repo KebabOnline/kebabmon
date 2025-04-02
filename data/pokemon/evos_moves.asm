@@ -506,12 +506,13 @@ ScytherEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 17, LEER
-	db 20, FOCUS_ENERGY
-	db 24, DOUBLE_TEAM
+	db 12, SWIFT
+	db 16, CUT
+	db 19, AGILITY
+	db 25, WING_ATTACK
 	db 29, SLASH
-	db 35, SWORDS_DANCE
-	db 42, AGILITY
+	db 33, RAZOR_WIND
+	db 41, SWORDS_DANCE
 	db 0
 
 StaryuEvosMoves:
