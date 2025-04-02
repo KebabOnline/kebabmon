@@ -44,7 +44,7 @@ MtMoonPokecenterMagikarpSalesmanText:
 	ld hl, .NoMoneyText
 	jr .printText
 .enoughMoney
-	lb bc, MAGIKARP, 5
+	lb bc, PORYGON, 5
 	call GivePokemon
 	jr nc, .done
 	xor a
