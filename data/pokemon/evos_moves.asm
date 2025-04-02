@@ -331,11 +331,13 @@ LickitungEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 7, STOMP
+	db 7, ACID
+	db 11, STOMP
 	db 15, DISABLE
+	db 19, MEGA_PUNCH
 	db 23, DEFENSE_CURL
-	db 31, SLAM
-	db 39, SCREECH
+	db 32, BODY_SLAM
+	db 39, WRAP
 	db 0
 
 ExeggcuteEvosMoves:
