@@ -206,12 +206,13 @@ RhydonEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 30, STOMP
-	db 35, TAIL_WHIP
-	db 40, FURY_ATTACK
-	db 48, HORN_DRILL
-	db 55, LEER
-	db 64, TAKE_DOWN
+	db 10, FURY_ATTACK
+	db 14, STOMP
+	db 19, ROCK_THROW
+	db 24, TAKE_DOWN
+	db 39, ROCK_SLIDE
+	db 42, EARTHQUAKE
+	db 55, HORN_DRILL
 	db 0
 
 KangaskhanEvosMoves:
@@ -414,15 +415,16 @@ CuboneEvosMoves:
 
 RhyhornEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 42, RHYDON
+	db EVOLVE_LEVEL, 36, RHYDON
 	db 0
 ; Learnset
-	db 30, STOMP
-	db 35, TAIL_WHIP
-	db 40, FURY_ATTACK
-	db 45, HORN_DRILL
-	db 50, LEER
-	db 55, TAKE_DOWN
+	db 10, FURY_ATTACK
+	db 14, STOMP
+	db 19, ROCK_THROW
+	db 24, TAKE_DOWN
+	db 39, ROCK_SLIDE
+	db 42, EARTHQUAKE
+	db 55, HORN_DRILL
 	db 0
 
 LaprasEvosMoves:
