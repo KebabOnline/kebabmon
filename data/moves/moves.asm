@@ -50,7 +50,7 @@ Moves:
 	move THRASH,       THRASH_PETAL_DANCE_EFFECT,   90, NORMAL,       100, 20
 	move DOUBLE_EDGE,  RECOIL_EFFECT,              100, NORMAL,       100, 15
 	move TAIL_WHIP,    DEFENSE_DOWN1_EFFECT,         0, NORMAL,       100, 30
-	move POISON_STING, POISON_SIDE_EFFECT1,         15, POISON,       100, 35
+	move POISON_STING, POISON_SIDE_EFFECT1,         30, POISON,       100, 35
 	move TWINEEDLE,    TWINEEDLE_EFFECT,            40, BUG,          100, 20
 	move PIN_MISSILE,  TWO_TO_FIVE_ATTACKS_EFFECT,  20, BUG,          100, 20
 	move LEER,         DEFENSE_DOWN1_EFFECT,         0, NORMAL,       100, 30
@@ -133,8 +133,8 @@ Moves:
 	move SELFDESTRUCT, EXPLODE_EFFECT,             130, NORMAL,       100,  5
 	move EGG_BOMB,     NO_ADDITIONAL_EFFECT,       100, NORMAL,        85, 10
 	move LICK,         PARALYZE_SIDE_EFFECT2,       50, GHOST,        100, 30
-	move SMOG,         POISON_SIDE_EFFECT2,         20, POISON,        70, 20
-	move SLUDGE,       POISON_SIDE_EFFECT2,         65, POISON,       100, 20
+	move SMOG,         POISON_SIDE_EFFECT2,         40, POISON,        85, 20
+	move SLUDGE,       POISON_SIDE_EFFECT2,         85, POISON,       100, 20
 	move BONE_CLUB,    FLINCH_SIDE_EFFECT1,         65, GROUND,        85, 20
 	move FIRE_BLAST,   BURN_SIDE_EFFECT2,          120, FIRE,          85,  5
 	move WATERFALL,    NO_ADDITIONAL_EFFECT,        80, WATER,        100, 15
