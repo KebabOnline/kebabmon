@@ -791,12 +791,14 @@ MagmarEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 36, LEER
-	db 39, CONFUSE_RAY
-	db 43, FIRE_PUNCH
-	db 48, SMOKESCREEN
-	db 52, SMOG
-	db 55, FLAMETHROWER
+	db 10, SMOG
+	db 20, CONFUSE_RAY
+	db 28, FIRE_PUNCH
+	db 28, THUNDERPUNCH
+	db 33, FIRE_PUNCH
+	db 38, SMOKESCREEN
+	db 40, FLAMETHROWER
+	db 54, FIRE_BLAST
 	db 0
 
 MissingNo34EvosMoves:
@@ -809,10 +811,13 @@ ElectabuzzEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 34, THUNDERSHOCK
-	db 37, SCREECH
-	db 42, THUNDERPUNCH
-	db 49, LIGHT_SCREEN
+	db 15, THUNDERSHOCK
+	db 22, SCREECH
+	db 28, THUNDERPUNCH
+	db 31, FIRE_PUNCH
+	db 36, ICE_PUNCH
+	db 40, LIGHT_SCREEN
+	db 43, THUNDERBOLT
 	db 54, THUNDER
 	db 0
 
