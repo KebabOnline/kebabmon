@@ -51,9 +51,9 @@ OakSpeech:
 	call PrepareOakSpeech
 	predef InitPlayerData2
 	ld hl, wNumBoxItems
-	ld a, POTION
+	ld a, RARE_CANDY
 	ld [wCurItem], a
-	ld a, 1
+	ld a, 95
 	ld [wItemQuantity], a
 	call AddItemToInventory
 	ld a, [wDefaultMap]
