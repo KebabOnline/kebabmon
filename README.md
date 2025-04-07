@@ -1,6 +1,6 @@
 # Kebabmon
 
-This is a ROM Hack of Pokémon Red and Blue, based on [Pokered](https://github.com/pret/pokered)
+This is a ROM Hack of Pokémon Red and Blue, based on [Pokered](https://github.com/pret/pokered).
 
 It builds the following ROMs:
 
