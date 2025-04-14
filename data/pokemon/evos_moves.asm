@@ -1960,12 +1960,12 @@ PorygonEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 15, PSYBEAM
 	db 18, THUNDERSHOCK 
-	db 20, THUNDER_WAVE
 	db 25, RECOVER
+	db 28, PSYBEAM
 	db 30, TRI_ATTACK
 	db 35, THUNDERBOLT
+	db 38, THUNDER_WAVE
 	db 40, AGILITY
 	db 50, HYPER_BEAM
 	db 0
